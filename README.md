@@ -13,7 +13,8 @@
 
 <br />
 
-> 📌 [코드포스에 관하여](https://ndb796.tistory.com/164)
+> 📌 [코드포스에 관하여](https://www.acmicpc.net/blog/view/7)
+> 📌 [코드포스 사이트](https://ndb796.tistory.com/164)
 > 📌 [코드포스 레이팅](https://www.acmicpc.net/blog/view/85)
 
 <br />
