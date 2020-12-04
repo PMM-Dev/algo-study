@@ -7,4 +7,4 @@
 
 |번호|문제|
 |:---:|:---:|
-|1|[.](https://www.acmicpc.net/problem/7569) |
+|1|[🖥](https://www.acmicpc.net/problem/1009) |
