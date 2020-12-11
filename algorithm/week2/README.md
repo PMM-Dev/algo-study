@@ -23,3 +23,9 @@
 |L|[파이썬식 풀이](https://www.acmicpc.net/source/24198680) |
 |2|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
 |L|[파이썬식 풀이](https://www.acmicpc.net/source/23631256) |
+
+### KMP 실전 문제
+|번호|문제|
+|:---:|:---:|
+|1|[찾기](https://www.acmicpc.net/problem/1786) |
+|2|[문자열 제곱](https://www.acmicpc.net/problem/4354) |

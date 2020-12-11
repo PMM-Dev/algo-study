@@ -81,3 +81,6 @@ vector<int> kmpSearch(string& src, string& search) {
 
     return ret;
 }
+
+// aabaabcd
+// abc
