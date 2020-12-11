@@ -5,9 +5,12 @@
 
 <br>
 
-개념 설명과 발표 내용 정리
+- 문자열 알고리즘 생태계
+- 문자열 알고리즘 소개
+- 문자열 알고리즘 차후 공부 방향
+- 파이썬이 이 바닥에서 유리한 이유
+- KMP 알고리즘
 
-파이썬 다뤄볼 정도론 의미
 <br>
 <br>
 
@@ -16,5 +19,13 @@
 ### 연습 문제
 |번호|문제|
 |:---:|:---:|
-|1|[.](https://www.acmicpc.net/problem/7569) |
-|2|[.](https://programmers.co.kr/learn/courses/30/lessons/42586) |
+|1|[그룹 단어 체커](https://www.acmicpc.net/problem/1316) |
+|L|[파이썬식 풀이](https://www.acmicpc.net/source/24198680) |
+|2|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941) |
+|L|[파이썬식 풀이](https://www.acmicpc.net/source/23631256) |
+
+### KMP 실전 문제
+|번호|문제|
+|:---:|:---:|
+|1|[찾기](https://www.acmicpc.net/problem/1786) |
+|2|[문자열 제곱](https://www.acmicpc.net/problem/4354) |
