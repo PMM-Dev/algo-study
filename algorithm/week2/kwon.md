@@ -7,5 +7,5 @@
 
 |번호|문제|
 |:---:|:---:|
-|1|[명령 프롬프트](https://www.acmicpc.net/problem/7569) |
+|1|[명령 프롬프트](https://www.acmicpc.net/problem/1032) |
 |2|[단어뒤집기2](https://www.acmicpc.net/problem/17413) |
