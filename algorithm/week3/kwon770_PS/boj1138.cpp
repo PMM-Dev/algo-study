@@ -9,13 +9,6 @@ int main() {
 	cin.tie(nullptr);
 	cout.tie(nullptr);
 
-//	vector<int> t = {1, 2, 3};
-//	auto it = t.begin();
-//	t.insert(it, 0);
-//	for (auto tmp : t) {
-//		cout << tmp << endl;
-//	}
-
 	int n;
 	cin >> n;
 	vector<int> vec(n);
@@ -34,9 +27,10 @@ int main() {
 			if (vec[i] == cnt) {
 				ans.insert(iter, i + 1); 
 				isYet = false;
+				break;
 			}
 
-			if (i + 1 < (*iter)) {
+			if (i + 1 < *iter) {
 				cnt++;
 			}
 
