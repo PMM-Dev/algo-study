@@ -4,12 +4,15 @@
 #define endl "\n"
 using namespace std;
 
+vector<int> dx = {-1, +1, 0, 0};
+vector<int> dy = {0, 0, -1, +1};
+
 int n, m, size;
 int maxSecurity = -1;
 vector<vector<int> > lab(9, vector<int>(9, -1));
 
 pair<int, int> getCoor(int idx) {
-	return make_pair(idx / m == 0 ? idx / m - 1 : idx / m, idx % m == 0 ? m : idx % m - 1 );
+	return make_pair(idx % m == 0 ? idx / m - 1 : idx / m, idx % m == 0 ? m - 1 : idx % m - 1 );
 }
 
 int findEmpty(int idx) {
@@ -23,26 +26,23 @@ int findEmpty(int idx) {
 
 void simulate() {
 	int spread = -1;
-	while (spread == 0) {
+	while (spread != 0) {
 		spread = 0;
 		for (int i = 0; i < n; i++) {
 			for (int j = 0; j < m; j++) {
 				if (lab[i][j] == 2) {
-					if (lab[i + 1][j] == 0) {
-						lab[i + 1][j] = 2;
-						spread++;
-					}
-					if (lab[i - 1][j] == 0) {
-						lab[i - 1][j] = 2;
-						spread++;
-					}
-					if (lab[i][j + 1] == 0){
-						lab[i][j + 1] = 2;
-						spread++;
-					}
-					if (lab[i][j - 1] == 0){
-						lab[i][j - 1] = 2;
-						spread++;
+
+					int tx, ty;
+					for (int k = 0; k < 4; i++) {
+						tx = i + dx[i];
+						ty = j + dy[i];
+
+						if (tx < 0 || ty < 0 || tx >= n || ty >= m) continue;
+
+						if (lab[tx][ty] == 0) {
+							lab[tx][ty] = 2;
+							spread++;
+						}
 					}
 				}
 			}
@@ -50,16 +50,24 @@ void simulate() {
 	}
 
 
+	cout << endl;
+
 	// check security
 	int security = 0;
 	for (int i = 0; i < n; i++) {
 		for (int j = 0; j < m; j++) {
+			cout << lab[i][j] << " ";
+
 			if (lab[i][j] == 0) {
 				security++;
 			}
 		}
+		cout << endl;
 	}	
 	maxSecurity = max(maxSecurity, security);
+
+	
+	cout << maxSecurity << endl;
 }
 
 int main() {
@@ -90,13 +98,12 @@ int main() {
 			pair<int, int> secondCoor = getCoor(second);
 			lab[secondCoor.first][secondCoor.second] = 1;
 
-
-			lab[secondCoor.first][secondCoor.second] = 1;
 			while (true) {
 				third = findEmpty(third);
 				if (third > size) break;
 
 				pair<int, int> thirdCoor = getCoor(third);
+				lab[thirdCoor.first][thirdCoor.second] = 1;
 
 				simulate();
 
