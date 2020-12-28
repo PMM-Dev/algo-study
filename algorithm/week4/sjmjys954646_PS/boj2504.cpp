@@ -1,4 +1,5 @@
-﻿#include <iostream>
+﻿//memory 2020KB time 0ms
+#include <iostream>
 #include <stdio.h>
 #include <string.h>
 #include <cmath>
