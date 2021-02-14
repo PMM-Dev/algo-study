@@ -1,0 +1,917 @@
+[33mcommit 89388bba3c0818bfe731aeaf8134d2c90968aec9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 5d50a2f cfc8e18
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Sun Feb 14 14:30:37 2021 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit cfc8e18150fbaa874f882cdd8338637f89bb8b8e[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Feb 13 23:46:23 2021 +0900
+
+    feat: Upload 9.5 mission
+
+[33mcommit 06ec9a0e8d51d6236499f58b8c72e39a1b0f8f77[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Feb 9 23:54:51 2021 +0900
+
+    solve: week 8.5 mission
+
+[33mcommit 5d50a2f89a57c82c3e36d081cf550d847ad0680c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Feb 9 23:53:06 2021 +0900
+
+    feat : ManaBingsu Nezzar and Colorful Balls AC
+
+[33mcommit 96dc80dfe88340ceb9750b7046afd8320b4a3f47[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Feb 9 21:24:24 2021 +0900
+
+    feat : ManaBingsu 보석 도둑 WA
+
+[33mcommit a73e890fda20f721ec344134f32b648b7d317342[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Feb 9 18:46:13 2021 +0900
+
+    feat : ManaBingsu 배틀로얄 AC
+
+[33mcommit 779beb713de6379364a42c93a7c23ea0590e3d2b[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Sat Feb 6 19:10:30 2021 +0900
+
+    feat : Update week8 mission
+    
+    boj19639
+
+[33mcommit 9fbcc2a4ea6ad37e8009064a2f79802aa24aa4ad[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Feb 6 01:12:20 2021 +0900
+
+    feat: Update 8.5 mission
+
+[33mcommit c189f591626254d6573165264cea7898e02497b2[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Feb 5 16:45:33 2021 +0900
+
+    feat : week 8.5 mission
+
+[33mcommit 3de314388a649ac5bc63b554b1d07efdc47a9f61[m
+Merge: 73c0fc2 3db3f58
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Fri Feb 5 16:39:33 2021 +0900
+
+    Merge pull request #21 from Kwon770/master
+    
+    Kwon 7주차 미션 풀이
+
+[33mcommit 73c0fc29839195b2fb240408a712c7049215de50[m
+Merge: 1695ae1 30478f9
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Fri Feb 5 16:39:18 2021 +0900
+
+    Merge pull request #20 from sjmjys954646/master
+    
+    Week7 PS
+
+[33mcommit 1695ae1176c04599a368ae3ff95720cd34efeb60[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Thu Feb 4 18:24:21 2021 +0900
+
+    feat : Update week8 presentation
+    
+    greedy
+    boj1931
+
+[33mcommit 30478f9f78f9bd2381aa9e2f2e32a0301279df6b[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Tue Feb 2 20:18:47 2021 +0900
+
+    feat : PS week7
+
+[33mcommit 3db3f58eb2c36c7c3e8d45332529736e8918b721[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Feb 1 16:56:44 2021 +0900
+
+    feat: solve 7.5 mission - 17144
+
+[33mcommit 5f3ff4596918ea8117c38874c13e504758ea8c6e[m
+Merge: f006a91 62178cd
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Feb 1 14:14:00 2021 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit 62178cd2454c95b7fed16183b439437a237ce503[m
+Merge: dc142e0 e929e87
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Sun Jan 31 16:29:53 2021 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit f006a91bc3418923ddd768b7ef8354d38c472f11[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sun Jan 31 14:51:50 2021 +0900
+
+    feat: solve 7.5 mission - 5566
+
+[33mcommit dc142e0f36c1b32c030f192a1eb0388ee25f52d1[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Sat Jan 30 23:01:53 2021 +0900
+
+    feat : week7 problem
+
+[33mcommit e929e87a7f828a2d76af312464ca4541a7ac9d5c[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Jan 30 22:28:56 2021 +0900
+
+    feat: 7.5 week mission update
+
+[33mcommit be5985ce42078a6ec84ef7ea71220b44e1a990f3[m
+Merge: 114fe92 e70d9d6
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Wed Jan 27 15:46:47 2021 +0900
+
+    Merge pull request #19 from sjmjys954646/master
+    
+    sjmjys954646 6주차
+
+[33mcommit 114fe925b49de55d01c867e6b68e0636df070343[m
+Merge: 78862a6 a168d47
+Author: soonchan Kwon <sckwon770@gmail.com>
+Date:   Fri Jan 22 16:20:37 2021 +0900
+
+    Merge pull request #18 from Kwon770/master
+    
+    kwonm770 6주차 미션 실패
+
+[33mcommit a168d475155880e14e81ccf32f6dcf8aef44199d[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Thu Jan 21 01:15:31 2021 +0900
+
+    feat: update 6.5 failed mission solution - 2341.cpp
+
+[33mcommit e70d9d623c357e901c47a4ac7a08e9af3f74de80[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Tue Jan 19 16:17:31 2021 +0900
+
+    feat : solve 6.5 mission
+
+[33mcommit 69705fa6ec3c63e1cc734175ef9278a3433fe6ea[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Jan 19 14:19:12 2021 +0900
+
+    feat: solve 6.5 mission - 1699, 11057
+
+[33mcommit 78862a6dc20c4819b38b92712f97fd15d678ccb6[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Jan 19 14:17:55 2021 +0900
+
+    chore : reset ps
+
+[33mcommit 7596a363dfeef27acd20601fa7c36cb82c16a038[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Mon Jan 18 23:25:08 2021 +0900
+
+    fix : ManaBingsu week6 mission link
+
+[33mcommit 5ed71b05d80d6746aef29e10780f19cbf1789bcd[m
+Merge: ee0fd64 f3442fb
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Jan 18 13:01:30 2021 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit ee0fd6490c4824bb470c7274c9ea572cacf23604[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Jan 16 15:46:49 2021 +0900
+
+    feat: Solve 6.5 mission - boj11057
+
+[33mcommit cad23892a85bdc4c038b3b22e3fe062416529945[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Jan 16 15:45:18 2021 +0900
+
+    feat: Solve 6.5 mission - boj1699
+
+[33mcommit f3442fb1ef47155bf80ff7e4e0fbccd18c85e50d[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Sat Jan 16 15:19:09 2021 +0900
+
+    feat : Update week 6.5 mission
+    
+    boj2341 팩스 문제
+
+[33mcommit 3fe0dd9b09d95fe0cb0128f9fb7795605bfe2a9e[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Jan 16 15:10:03 2021 +0900
+
+    feat: Update 6.5 mission
+
+[33mcommit 21e208dd3e6e6a022853849faa45e9248d187bce[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Jan 15 13:25:09 2021 +0900
+
+    feat : week 6.5 mission
+
+[33mcommit 765d5badcc62728142df590f2e613e5f4abfb3e6[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Thu Jan 14 23:13:28 2021 +0900
+
+    feat : week6
+
+[33mcommit 2ee9b3897011165e0f33098831c618768bb50b24[m
+Merge: 54ecfda b72bb42
+Author: HyunSeok Jeong <duoq9901@gmail.com>
+Date:   Thu Jan 14 22:35:06 2021 +0900
+
+    Merge pull request #17 from ManaBingsu/master
+    
+    ManaBingsu 5주차 미션 풀이 완료
+
+[33mcommit 54ecfdaf024e60c1b009d6ce2b9510954b70776e[m
+Merge: 830bdbe 8682fa6
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Thu Jan 14 22:33:19 2021 +0900
+
+    Merge pull request #16 from sjmjys954646/master
+    
+    sjmjys954646 5주차 미션 풀이 완료
+
+[33mcommit 830bdbee434cd11e8077d748382e46815145de43[m
+Merge: c542e53 e4614f5
+Author: soonchan Kwon <sckwon770@gmail.com>
+Date:   Thu Jan 14 22:27:16 2021 +0900
+
+    Merge pull request #15 from Kwon770/master
+    
+    Kwon770 5주차 미션 풀이 완료
+
+[33mcommit b72bb42d56ed31c2ca8edf802e8abe12d66fec19[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Wed Jan 13 03:23:29 2021 +0900
+
+    feat : ManaBingsu 아기 상어 AC
+
+[33mcommit b8d20100c5f8da23b9aad51a9e02f659e06eed87[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Jan 12 22:02:31 2021 +0900
+
+    feat : ManaBingsu 뱀 AC
+
+[33mcommit 880d5dcd195695683609edc448c5f72ee8081888[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Jan 12 22:01:52 2021 +0900
+
+    feat : ManaBingsu 톱니바퀴 AC
+
+[33mcommit 8682fa64f369313512428a590e6008d9e41b3c56[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Tue Jan 12 13:29:25 2021 +0900
+
+    feat : solve 4.5week mission
+
+[33mcommit e4614f5fc174a17fb96ebad43a689a44e3c3b2ee[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Jan 12 12:53:13 2021 +0900
+
+    feat: Solve 4.5 week mission - boj16236
+
+[33mcommit ba3d2ec9c1ae1c230011f82d010d22a13f00db20[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Jan 11 17:49:51 2021 +0900
+
+    feat: Solve 4.5 week mission - boj3190
+
+[33mcommit 147b9d515aa9e2a2b662b03cced95729628e0d8d[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Jan 11 12:28:59 2021 +0900
+
+    feat: Solve 4.5 week mission - boj14891
+
+[33mcommit c542e53c4e42a28465a71f9e6e19aa445383a67e[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Jan 9 23:40:09 2021 +0900
+
+    feat: Update 5.5 mission
+
+[33mcommit b165f8caf71c35206a357e1702bea467a3a183a4[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Sat Jan 9 14:29:14 2021 +0900
+
+    feat : Update Week 5.5 mission
+    
+    Boj3190
+
+[33mcommit 02e1b80a94e21d877660dd0b86bbb070de21c8a9[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Jan 8 21:42:36 2021 +0900
+
+    feat : update 5.5mission
+
+[33mcommit 7cd3ae5abbb8c7f9169c4307cf7019608b8b2734[m
+Merge: d1dbdbd ef612fc
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Fri Jan 8 14:41:33 2021 +0900
+
+    Merge pull request #12 from sjmjys954646/master
+    
+    week4 solve
+
+[33mcommit d1dbdbd191e13b1eac549fc849f4a22a8d961bbc[m
+Merge: e7fcee8 38c950e
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Fri Jan 8 14:41:16 2021 +0900
+
+    Merge pull request #13 from Kwon770/master
+    
+    Kwon770 4주차 미션 풀이 완료
+
+[33mcommit e7fcee8abf39112ba3f58772f89fe57b65c750f7[m
+Merge: fc7aec1 7616244
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Fri Jan 8 14:41:02 2021 +0900
+
+    Merge pull request #14 from ManaBingsu/master
+    
+    Week4 solve
+
+[33mcommit 38c950e26d16e960822f490297b7e80fb42ef83a[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Thu Jan 7 21:49:45 2021 +0900
+
+    docs: Update lesson guide
+
+[33mcommit 761624431760abb64d607b07b186746b9ee0f86e[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Wed Dec 30 22:12:37 2020 +0900
+
+    feat : ManaBingsu 괄호의 값  WA
+
+[33mcommit 8d37a30383f9e970655e759c9af1e6302b1de20c[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Wed Dec 30 22:12:20 2020 +0900
+
+    feat : ManaBingsu 압축 WA
+
+[33mcommit 843360f9eb74622166d259f2936e5ba1e9b2cfd7[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Wed Dec 30 21:57:58 2020 +0900
+
+    feat : ManaBingsu 로또 AC
+
+[33mcommit b53c5eff6ce62e80d9fd8a2ad5dcd0c9dcaa6e1c[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Wed Dec 30 21:42:23 2020 +0900
+
+    feat : ManaBingsu 색종이 만들기 AC
+
+[33mcommit 2388844d433e5411ae4a9d56d6228a1dadc8e79c[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 29 17:46:23 2020 +0900
+
+    ...
+
+[33mcommit 971962ad60bfb153a55ba6f731aec9456fd625f4[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 29 17:34:47 2020 +0900
+
+    feat: Solve 4.5 week mission - boj1074
+
+[33mcommit e9d9f1a01d4ca9b4b5d3acf1e45ccf20950d6bff[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 29 16:26:47 2020 +0900
+
+    feat: Solve 4.5 week mission - boj6603
+
+[33mcommit 587068531f0d09e3aade6fbff082b240a98f1362[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 29 02:50:56 2020 +0900
+
+    feat : ManaBingsu Z AC
+
+[33mcommit b20bcda255fd5fc88cac8c4cd691ed9ee992b540[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Dec 28 23:53:03 2020 +0900
+
+    feat: Solve 4.5 week mission - boj2630
+
+[33mcommit ef612fc63e8db73f5cce1303b17507112f9b289f[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 28 20:39:01 2020 +0900
+
+    fix : execute memory time
+
+[33mcommit d5e208f8241885220de921986b8d5d4bc617afbb[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 28 20:34:14 2020 +0900
+
+    feat : week4 solve
+
+[33mcommit fc7aec10744a761cdba43b3f9867e4aa5c53f8bc[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Dec 26 18:35:21 2020 +0900
+
+    feat: Update 4.5 mission
+
+[33mcommit 185f8858811ac65fde4221e4721f9a7126e044fb[m
+Merge: 0c65acd 591f60f
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Dec 26 18:14:13 2020 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit 591f60f64325a5e1d29446590d0ecbe0634b325a[m
+Author: YunSu <sjmjys954646@gmail.com>
+Date:   Sat Dec 26 13:01:57 2020 +0900
+
+    feat : Update 2.5 cycle
+
+[33mcommit 0b839a38e1a2eee2bfcf36c027f7640327f7d42b[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Fri Dec 25 16:49:07 2020 +0900
+
+    feat : Update 2.5 cycle
+    
+    Z       boj1074
+    로또    boj6603
+
+[33mcommit 0c65acd8638f0414ce3c9c61a4b694e6f029d217[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 23 22:30:36 2020 +0900
+
+    docs: Update lesson guide
+
+[33mcommit c1a1f1c98e40a0fb907140239b3d8f00ec61614c[m
+Merge: bc9eb59 a948453
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Wed Dec 23 22:30:25 2020 +0900
+
+    Merge pull request #11 from ManaBingsu/master
+    
+    ManaBingsu 3주차 풀이
+
+[33mcommit bc9eb59df7a89f2139e59402804e7f7ea4692e97[m
+Merge: ca3bcfe d929aca
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Wed Dec 23 21:28:04 2020 +0900
+
+    Merge pull request #9 from sjmjys954646/master
+    
+    sjmjys954646 3주차 풀이완료
+
+[33mcommit ca3bcfe236802f7d68dfcab6524cb09c161d19be[m
+Merge: 5498648 d25e979
+Author: soonchan Kwon <sckwon770@gmail.com>
+Date:   Wed Dec 23 21:27:52 2020 +0900
+
+    Merge pull request #10 from Kwon770/master
+    
+    Kwon770 3주차 풀이
+
+[33mcommit d25e97980b380bbbaf08a725c59aed4164f401da[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 23 21:05:14 2020 +0900
+
+    ..
+
+[33mcommit 5ac4539880a2faf230f464fb0fb911954c286c0c[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 23 16:28:13 2020 +0900
+
+    feat: Add 3.5 week mission time/memory
+
+[33mcommit a9484538f8d5783c1a2b44eab03d9f86d1498661[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Wed Dec 23 02:10:38 2020 +0900
+
+    feat : ManaBingsu 로봇 시뮬레이션 AC
+
+[33mcommit bbbada63dd7bb58c4975782fae850c78762db59c[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 23 00:54:54 2020 +0900
+
+    feat: Solve 3.5 week mission - boj1138 (Solved)
+
+[33mcommit 1e04e975c5fc7f17ec39a79cb0854911ef67064f[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 23 00:49:06 2020 +0900
+
+    feat: Solve 3.5 week mission - boj14502 (Solved)
+
+[33mcommit cab3fc0db2873378e7a0387a544bf1e765b93415[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 23 00:01:14 2020 +0900
+
+    feat: Solve 3.5 week mission - boj1138, 14502 (RunTime)
+
+[33mcommit eb0be21b30cb0a894ef1bbe47448d073767686eb[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 22 23:54:10 2020 +0900
+
+    feat : ManaBingsu 연구소 AC
+
+[33mcommit a4830cef39f7451e07366a75d41dfa20e3461353[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 22 22:54:45 2020 +0900
+
+    feat : ManaBingsu 한 줄로 서기 AC
+
+[33mcommit d929acaf6df1c59e477f6af86f7079441a1c824e[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 21 13:07:04 2020 +0900
+
+    fix : boj1138_greedy
+
+[33mcommit 9a5cc593d4a8aa9c146f2c7405121c5abfc0b183[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Dec 21 12:28:05 2020 +0900
+
+    feat: Solve 3.5 week mission - boj2174
+
+[33mcommit 62e714c8d49b153d3ee5f29fa3a5cd15b16f8276[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 21 00:41:53 2020 +0900
+
+    feat : week4 solve
+
+[33mcommit 5498648e2f71ab3045b0fcfe77a93e66367187c5[m
+Merge: 244f33f b51eae6
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 21 00:40:56 2020 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit 244f33f33c363bb0664bc1ecfdb9bf9138c4b58b[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 21 00:40:23 2020 +0900
+
+    feat : week4 study
+
+[33mcommit b51eae6d296ad83ea88c85a229dae28e9f89f23d[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sun Dec 20 22:46:51 2020 +0900
+
+    feat: Update 2.5 cycle mission
+
+[33mcommit 649b81cf8a7ab26bf159270b19af9c5fa28816c7[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Sat Dec 19 23:16:51 2020 +0900
+
+    feat : Update 2.5 cycle
+
+[33mcommit a4faa9faa6c92a9889333711af230afcb6f76941[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Sat Dec 19 21:55:49 2020 +0900
+
+    feat : Update 2.5 cycle
+
+[33mcommit 9dcb78d59767f64997b99677db628850cc2f3768[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Thu Dec 17 22:31:18 2020 +0900
+
+    docs: Organize README again
+
+[33mcommit 7160114483d3b3d8da795f529ec4ac8f9f88abc5[m
+Merge: cdbaf50 c081612
+Author: soonchan Kwon <sckwon770@gmail.com>
+Date:   Thu Dec 17 22:20:03 2020 +0900
+
+    Merge pull request #6 from sjmjys954646/master
+    
+    sjmjys954646 2주차 풀이완료
+
+[33mcommit cdbaf504032f009ffcd564cd57a5dd8a7ea51c11[m
+Merge: f933837 af357aa
+Author: soonchan Kwon <sckwon770@gmail.com>
+Date:   Thu Dec 17 22:19:50 2020 +0900
+
+    Merge pull request #7 from ManaBingsu/master
+    
+    ManaBingsu 2주차 풀이완료
+
+[33mcommit f9338377164470e98f1eda5944e5ff78b2373426[m
+Merge: 64add78 05a2f6e
+Author: soonchan Kwon <sckwon770@gmail.com>
+Date:   Thu Dec 17 22:19:32 2020 +0900
+
+    Merge pull request #8 from Kwon770/master
+    
+    Kwon770 2주차 풀이완료
+
+[33mcommit 05a2f6e483e033f44413e021c98bbafc3d4947e1[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 15 19:14:17 2020 +0900
+
+    feat: 2.5week mission - boj2195
+
+[33mcommit 3b54d064ab744b76d0514a8ef1ff7e2ad26109c1[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 15 18:24:27 2020 +0900
+
+    feat: 2.5week mission - boj9536]
+
+[33mcommit 7971988fc6fffa9d58210b6f82a29cc8d0b43e0b[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 15 17:24:12 2020 +0900
+
+    feat: 2.5week mission - boj17249
+
+[33mcommit 4a2ca7691296fa82ceca126d0555bcda6ff917f9[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 15 17:04:54 2020 +0900
+
+    feat: 2.5week mission - boj17413
+
+[33mcommit 5a0138be0da73a8f2b32f8e70648de2eb664559b[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 15 17:03:47 2020 +0900
+
+    feat: 2.5week mission - boj1032
+
+[33mcommit af357aacfe4c88c70f5ca03404fef09b413b3a53[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 15 16:19:40 2020 +0900
+
+    feat : ManaBingsu 여우는 어떻게 울지? AC
+
+[33mcommit 7c325bb24d1ba474a0cfacac01e5bb116fa9237e[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 15 15:16:50 2020 +0900
+
+    feat : ManaBingsu 태보태보 총난타 AC
+
+[33mcommit 1ef7f8f74848bef666212b08b164f42b87ff4272[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 15 15:10:46 2020 +0900
+
+    feat : ManaBingsu 문자열 복사 AC
+
+[33mcommit e0b27d350a256f68310d9aa4ac0ecd2d9de62919[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 15 15:07:52 2020 +0900
+
+    feat : ManaBingsu 단어 뒤집기2 AC
+
+[33mcommit 8919a04aad6441ef6585935608e82cab743c5733[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Tue Dec 15 13:01:38 2020 +0900
+
+    feat : ManaBingsu 명령 프롬프트 AC
+
+[33mcommit c081612c8d9b6e1c84af69658277147554fdc9f8[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Sun Dec 13 18:50:17 2020 +0900
+
+    feat : week2/sjmjys954646_PS
+
+[33mcommit 64add783517138211413556f515c0c200ade7edf[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sun Dec 13 15:21:55 2020 +0900
+
+    feat: Update 2.5 week mission
+
+[33mcommit 602f3ed1408e484d8732a034ec0ec6aed4dfa2be[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Dec 12 22:26:56 2020 +0900
+
+    feat: Merge 2.5 week mission
+
+[33mcommit 53fa61158cf4e305723e053295e78f1305432a39[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Sat Dec 12 10:59:04 2020 +0900
+
+    feat : ManaBingsu week2
+
+[33mcommit 813904950f408a644d464e08a4898691bc344716[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Dec 11 21:36:31 2020 +0900
+
+    add : sjmjys954646 week2
+
+[33mcommit 16c20b4c21e5bf17317f59386c9e53aeb32714fa[m
+Merge: 87bede6 9a0687a
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Dec 11 21:13:55 2020 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit 9a0687a9f518278a7fac16ec8144de02cdb5b8fe[m
+Merge: 75549dc 7b4aa17
+Author: sjmjys954646 <37840237+sjmjys954646@users.noreply.github.com>
+Date:   Fri Dec 11 21:13:40 2020 +0900
+
+    Merge pull request #3 from sjmjys954646/master
+    
+    sjmjys954646 1주차 1,2,3번 풀이완료
+
+[33mcommit 87bede64a9dc07f3ee26411962564e5c8ad73883[m
+Merge: 7b4aa17 75549dc
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Dec 11 21:13:10 2020 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit 75549dc7e94db058264568b0059d22d625b1214b[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Fri Dec 11 19:39:46 2020 +0900
+
+    chore: Add Week2 Kwon770 class files
+
+[33mcommit 01116ef8e813068b80111432b3d0fa2e78394bdd[m
+Author: soonchan Kwon <sckwon770@gmail.com>
+Date:   Thu Dec 10 22:38:47 2020 +0900
+
+    Update README.md
+
+[33mcommit 4f71aef50a7b669e80249ea15aab52a0f18417ab[m
+Merge: f73cff6 f679998
+Author: HyunSeok Jeong <duoq9901@gmail.com>
+Date:   Thu Dec 10 21:03:43 2020 +0900
+
+    Merge pull request #4 from ManaBingsu/master
+    
+    ManaBingsu 1주차 1,2,3번 풀이완료
+
+[33mcommit f73cff6ac0f8356b1d8d5aed96fc94c45909372a[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Thu Dec 10 20:56:55 2020 +0900
+
+    docs: Update 2week README
+
+[33mcommit 80efe81ce8d149fc6f3fbe1caf375a087bd2081f[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 9 16:03:24 2020 +0900
+
+    feat: 야구 AC
+
+[33mcommit 9d4e697f782a9b179c3b5516d8353643a57f5b42[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 9 15:50:51 2020 +0900
+
+    feat: 야구 AC
+
+[33mcommit 4593f8c24c845c824849c0edfaa9fb113c35d1c2[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 8 18:50:08 2020 +0900
+
+    feat: 야구 WA
+
+[33mcommit e86ee252e649d658923e5493a798ad55c113ac82[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Tue Dec 8 16:02:43 2020 +0900
+
+    feat: 분산처리 AC
+
+[33mcommit f679998ee9f5e298d0c238854de402f05462ffed[m
+Author: ManaBingsu <43133819+ManaBingsu@users.noreply.github.com>
+Date:   Mon Dec 7 19:28:40 2020 +0900
+
+    ManaBingsu 분산처리 AC
+
+[33mcommit 969092c8d6f61a258cd2763c3bda1813d21c8a8b[m
+Author: ManaBingsu <duoq9901@gmail.com>
+Date:   Mon Dec 7 15:50:37 2020 +0900
+
+    ManaBingsu ⚾ AC
+
+[33mcommit 7b4aa179143320339c58daffba7557859ad839a3[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 7 12:28:25 2020 +0900
+
+    sjmjys954646 ⚾ AC
+
+[33mcommit af94cb3de1becb7a79d3a6f17e2cc239dab137ff[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 7 12:27:38 2020 +0900
+
+    sjmjys954646 여왕벌 AC
+
+[33mcommit 328d7e732074a530c5b67d224ec8328a82f7ba99[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 7 12:25:52 2020 +0900
+
+    sjmjys954646 분산처리 AC
+
+[33mcommit 2471db30306b3932f08a2e3d76b80336096e449e[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Mon Dec 7 12:21:40 2020 +0900
+
+    fix : delete week1
+
+[33mcommit e47123b10901ac62a8d34f0f248b74a25612ea1a[m
+Author: ManaBingsu <duoq9901@gmail.com>
+Date:   Mon Dec 7 11:30:19 2020 +0900
+
+    ManaBingsu 여왕벌 AC
+
+[33mcommit d826f94a55d587202cd8b67f11a0cba30afa7883[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Sun Dec 6 15:02:11 2020 +0900
+
+    sjmjys954646 여왕벌 AC
+
+[33mcommit 3603c886fce1a3fecbfd583843c994a5ceec235b[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Sun Dec 6 15:01:28 2020 +0900
+
+    sjmjys954646 분산처리 AC
+
+[33mcommit cc9a50921a071ed5e263a6f72bc177fefa12c912[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Sun Dec 6 14:59:41 2020 +0900
+
+    sjmjys954646 ⚾AC
+
+[33mcommit a236647f0659b164e6cffab75891a695b3dd67e0[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sat Dec 5 02:06:08 2020 +0900
+
+    feat: Upload 1.5 mission
+
+[33mcommit 93ac444d8aadfbf002f31509c6b8b9a37be85732[m
+Merge: c207171 47d8c28
+Author: HyunSeok Jeong <duoq9901@gmail.com>
+Date:   Fri Dec 4 17:12:41 2020 +0900
+
+    Merge pull request #2 from ManaBingsu/master
+    
+    add ManaBingsu week1
+
+[33mcommit 47d8c285bddb7ade7ecbc50f72c24f0f05268efa[m
+Author: ManaBingsu <duoq9901@gmail.com>
+Date:   Fri Dec 4 17:12:06 2020 +0900
+
+    add ManaBingsu week1
+
+[33mcommit c207171e2d5e92edd24df28d7ffa8e3ab8cd8648[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Dec 4 10:29:06 2020 +0900
+
+    add yunsu week1
+
+[33mcommit a30f9d9d4da73f5555a086710302ce616229f6f3[m
+Merge: fdf65be d3df8c1
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Fri Dec 4 10:26:09 2020 +0900
+
+    Merge branch 'master' of https://github.com/PMM-Dev/algo-study
+
+[33mcommit d3df8c1abdfdfeb922c3e8773577ec77e7a5c050[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Fri Dec 4 03:03:59 2020 +0900
+
+    docs: Add all templates
+
+[33mcommit fdf65be60de46ce12197db6691a1357d562ac1d2[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Thu Dec 3 20:29:04 2020 +0900
+
+    test finish!
+
+[33mcommit e5724ca50a46b572d2394326bbe66881bd99eb30[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Thu Dec 3 20:26:25 2020 +0900
+
+    test
+
+[33mcommit 8aaed736210e77e0c436ee95c3cc77c62302e62f[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Thu Dec 3 20:25:54 2020 +0900
+
+    test finish!
+
+[33mcommit 077585cfa0646e1123b07ff2a1784b0a985933eb[m
+Author: sjmjys954646 <sjmjys954646@gmail.com>
+Date:   Thu Dec 3 20:23:48 2020 +0900
+
+    test
+
+[33mcommit 66824c5558885224d7969b1505d42d0948bbfd7f[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Thu Dec 3 00:14:37 2020 +0900
+
+    docs: Update the rule
+
+[33mcommit 269cb9927a9d02d2d212490ab51c4313c5583b24[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Wed Dec 2 22:21:14 2020 +0900
+
+    docs: Update the rule
+
+[33mcommit 274a83855f4c04afc4b8f63aa0e788ac18f26c77[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Oct 26 11:43:34 2020 +0900
+
+    ...
+
+[33mcommit 06be157594e49e46875f99a6b5799fe37d00fb87[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Mon Oct 26 11:38:18 2020 +0900
+
+    docs: Add document template
+
+[33mcommit c8ef67ea8b06513bc85d2b9a909ba15921d2ea24[m
+Author: Kwon770 <sckwon770@gmail.com>
+Date:   Sun Oct 25 15:29:00 2020 +0900
+
+    chore: first init
