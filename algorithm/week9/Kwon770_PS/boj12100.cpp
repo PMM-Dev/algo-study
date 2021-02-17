@@ -1,27 +1,18 @@
-// WA
-// 반례
-// 256 8 128
-// 16 0 256
-// 0 8 0
-// OUTPUT : 256
-// ANSWER : 512
-// 왜 인지 모르겠음..
+// Memory : 2152 KB
+// Time : 16 ms
 #include <algorithm>
 #include <iostream>
 #include <vector>
 #define endl '\n'
 using namespace std;
 
-int initR[4], initC[4];
 int dR[] = {-1, 0, 1, 0};
 int dC[] = {0, 1, 0, -1};
 
 int n, ans = 0;
-vector<vector<int>> arr;
-vector<vector<int>> tmpArr;
-vector<vector<bool>> combined;
 
-void move(vector<vector<int>> curArr, int d, int i, int j) {
+void move(vector<vector<int>> &curArr, vector<vector<int>> &tmpArr,
+          vector<vector<bool>> &combined, int d, int i, int j) {
   if (curArr[i][j] == 0)
     return;
 
@@ -61,27 +52,25 @@ void simulate(vector<vector<int>> curArr, int cnt) {
   }
 
   for (int d = 0; d < 4; d++) {
-    for (auto &t : tmpArr)
-      fill(t.begin(), t.end(), 0);
-    for (auto &t : combined)
-      fill(t.begin(), t.end(), false);
+    vector<vector<int>> tmpArr(n, vector<int>(n, 0));
+    vector<vector<bool>> combined(n, vector<bool>(n, false));
 
     if (d == 0) {
       for (int j = 0; j <= n - 1; j++)
         for (int i = 0; i <= n - 1; i++)
-          move(curArr, d, i, j);
+          move(curArr, tmpArr, combined, d, i, j);
     } else if (d == 1) {
       for (int i = 0; i <= n - 1; i++)
         for (int j = n - 1; j >= 0; j--)
-          move(curArr, d, i, j);
+          move(curArr, tmpArr, combined, d, i, j);
     } else if (d == 2) {
       for (int j = 0; j <= n - 1; j++)
         for (int i = n - 1; i >= 0; i--)
-          move(curArr, d, i, j);
-    } else if (d == 4) {
+          move(curArr, tmpArr, combined, d, i, j);
+    } else if (d == 3) {
       for (int i = 0; i <= n - 1; i++)
-        for (int j = 0; j <= 0; j++)
-          move(curArr, d, i, j);
+        for (int j = 0; j <= n - 1; j++)
+          move(curArr, tmpArr, combined, d, i, j);
     }
 
     simulate(tmpArr, cnt + 1);
@@ -94,20 +83,10 @@ int main() {
   cout.tie(nullptr);
 
   cin >> n;
-  arr.resize(n, vector<int>(n));
+  vector<vector<int>> arr(n, vector<int>(n));
   for (int i = 0; i < n; i++)
     for (int j = 0; j < n; j++)
       cin >> arr[i][j];
-  tmpArr.resize(n, vector<int>(n));
-  combined.resize(n, vector<bool>(n));
-  initR[0] = 0;
-  initR[1] = -1;
-  initR[2] = n - 1;
-  initR[3] = -1;
-  initC[0] = -1;
-  initC[1] = n - 1;
-  initC[2] = -1;
-  initC[3] = 0;
 
   simulate(arr, 0);
   cout << ans;
