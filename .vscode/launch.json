@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "launch_clang++",
+      "program": "${fileDirname}/a.out",
+      "preLaunchTask": "build_clang++",
+      "args": [], 
+      "request": "launch",
+    }
+  ]
+}
