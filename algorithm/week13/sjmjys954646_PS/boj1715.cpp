@@ -40,7 +40,40 @@ priority_queue<int, vector<int>, greater<int>> pq;
 
 int main()
 {
-    freopen("input.txt", "r", stdin);
 
-        return 0;
+    int N;
+    int tmp;
+
+    scanf("%d", &N);
+
+    rep(i, N)
+    {
+        scanf("%d", &tmp);
+        pq.push(tmp);
+    }
+
+    if (N == 1)
+    {
+        cout << 0;
+    }
+    else
+    {
+        long long ans = 0;
+
+        while (true)
+        {
+            if (pq.size() == 1)
+                break;
+            int fi = pq.top();
+            pq.pop();
+            int se = pq.top();
+            pq.pop();
+
+            ans += (fi + se);
+            pq.push(fi + se);
+        }
+
+        printf("%lld", ans);
+    }
+    return 0;
 }
