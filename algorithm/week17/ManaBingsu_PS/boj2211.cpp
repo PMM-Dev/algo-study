@@ -1,7 +1,7 @@
-// 최소비용 구하기 2
-// https://www.acmicpc.net/problem/11779
-// Memory	:   3628    KB
-// Time		:   100      ms
+// 네트워크 복구
+// https://www.acmicpc.net/problem/2211
+// Memory	:   6548    KB
+// Time		:   180     ms
 
 #include <iostream>
 #include <vector>
@@ -11,30 +11,34 @@ using namespace std;
 
 vector<pair<int, int>> nodes[1001];
 int dist[1001];
-int visited[100001];
+int visited[1001];
 
-int n, m, src, dest;
+int N, M;
+int maxCpu = 0;
 
 void input()
 {
-    cin >> n;
-    cin >> m;
-    for (int i = 1; i <= m; ++i) {
+    cin >> N >> M;
+    for (int i = 1; i <= M; ++i) {
         int s = 0, d = 0, w = 0;
         cin >> s >> d >> w;
+        if (s > maxCpu)
+            maxCpu = s;
+        if (d > maxCpu)
+            maxCpu = d;
         nodes[s].push_back(make_pair(d, w));
+        nodes[d].push_back(make_pair(s, w));
     }
-    cin >> src >> dest;
 }
 
 void solve() {
-    for (int i = 1; i <= n; ++i)
+    for (int i = 1; i <= N; ++i)
         dist[i] = 123456789;
 
     priority_queue<pair<int, int>> pq = priority_queue<pair<int, int>>();
 
-    pq.push(make_pair(src, 0));
-    dist[src] = 0;
+    pq.push(make_pair(1, 0));
+    dist[1] = 0;
 
     while (!pq.empty()) {
         int node = pq.top().first;
@@ -52,18 +56,10 @@ void solve() {
             }
         }
     }
-    cout << dist[dest] << "\n";
 
-    vector<int> routes;
-    int back = dest;
-    while (back) {
-        routes.push_back(back);
-        back = visited[back];
-    }
-
-    cout << routes.size() << "\n";
-    for (int i = routes.size() - 1; i >= 0; --i) {
-        cout << routes[i] << " ";
+    cout << maxCpu - 1 << "\n";
+    for (int i = 2; i <= N; ++i) {
+        cout << i << " " << visited[i] << "\n";
     }
 }
 
