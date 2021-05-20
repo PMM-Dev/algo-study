@@ -1,3 +1,5 @@
+// Memory : 6000 KB
+// Time : 24 ms
 #include <iostream>
 #include <limits.h>
 #include <queue>
@@ -59,7 +61,7 @@ int main() {
         continue;
 
       int nCost = cost + bus[city][i];
-      if (dist[i] < nCost)
+      if (dist[i] <= nCost)
         continue;
 
       dist[i] = nCost;
