@@ -16,7 +16,6 @@ class Node {
 public:
   int cost;
   int city;
-  vector<int> way;
 };
 
 struct cmp {
@@ -34,47 +33,53 @@ int main() {
   For(i, 0, m) {
     int f, t, e;
     cin >> f >> t >> e;
+    if (bus[f][t] != -1 && bus[f][t] <= e)
+      continue;
+
     bus[f][t] = e;
   }
   int origin, destination;
   cin >> origin >> destination;
 
   priority_queue<Node, vector<Node>, cmp> pq;
-  pq.push(Node{0, origin, vector<int>()});
+  pq.push(Node{0, origin});
   vector<int> dist(n + 1, INT_MAX);
-  vector<int> ansWay;
+  vector<int> back(n + 1);
+  dist[origin] = 0;
   while (!pq.empty()) {
     int cost = pq.top().cost;
     int city = pq.top().city;
-    vector<int> way = pq.top().way;
     pq.pop();
 
     if (dist[city] < cost)
       continue;
 
-    for (int i = 1; i <= sz(bus[city]); i++) {
+    for (int i = 1; i <= n; i++) {
       if (bus[city][i] == -1)
         continue;
 
       int nCost = cost + bus[city][i];
-      if (dist[i] <= nCost)
+      if (dist[i] < nCost)
         continue;
 
       dist[i] = nCost;
-      way.push_back(i);
-      pq.push(Node{nCost, i, way});
-
-      if (i == destination)
-        ansWay = way;
-      way.pop_back();
+      back[i] = city;
+      pq.push(Node{nCost, i});
     }
   }
 
+  vector<int> backtracking = {destination};
+  int idx = destination;
+  while (idx != origin) {
+    backtracking.push_back(back[idx]);
+    idx = back[idx];
+  }
+
   cout << dist[destination] << endl;
-  cout << ansWay.size() + 1 << endl;
-  cout << origin << " ";
-  for (auto w : ansWay) {
-    cout << w << " ";
+  cout << backtracking.size() << endl;
+  while (!backtracking.empty()) {
+    cout << backtracking.back() << " ";
+    backtracking.pop_back();
   }
 
   return 0;
