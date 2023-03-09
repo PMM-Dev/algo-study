@@ -92,21 +92,3 @@ ex) `Kwon770 1주차 풀이완료`
 <br />
 
 ---
-
-## N 주차
-
-### [1주차](./algorithm/1week/README.md)
-
-코딩 테스트 및 스터디의 방향과 구체적인 사항 회의
-
-### [2주차](algorithm/week2/README.md) (1/2) (발표자: 권순찬)
-
-문자열과 문자열 알고리즘에 관한 수업
-
-### [3주차](algorithm/week3/README.md) (2/2)
-
-2주차 문제 코드 리뷰
-
-### [4주차](algorithm/week4/README.md) (1/2) (발표자 : 이윤수)
-
-재귀에 관한 수업
